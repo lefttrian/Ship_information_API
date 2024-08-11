@@ -5,7 +5,7 @@ FROM python:3.11-slim
 WORKDIR /src
 
 #
-EXPOSE 8000
+EXPOSE 5000
 
 #
 COPY ./requirements.txt /requirements.txt
